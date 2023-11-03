@@ -61,8 +61,8 @@ Dedicated and results-oriented Software Engineer with a strong passion for backe
 
 ## Skills
 
-- 💻 Programming Languages: Python
-- 🌐 Backend: Django, Django Rest Framework
+- 💻 Programming/Scripting Languages: Python, C, C++, Powershell
+- 🌐 Backend: Django, Django Rest Framework, CustomTkinter, Kivy
 - 📦 Database: PostgreSQL, MySQL
 - 📜 Version Control: Git/GitHub (obviously 😏)
 - 🧪 Test-Driven Development (TDD)
