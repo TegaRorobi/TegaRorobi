@@ -73,7 +73,7 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 - 📦 Database: PostgreSQL, MySQL
 - 📜 Version Control: Git/GitHub
 - 🧪 Test-Driven Development (TDD)
-- 🤝 Soft Skills: Strong interpersonal relations, determination, commitment, ability to work independently.
+- 🤝 Soft Skills: Leadership, strong interpersonal relations, determination, commitment, ability to work independently amongst others.
 
 ## Awards
 
