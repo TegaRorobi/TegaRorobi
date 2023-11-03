@@ -24,34 +24,41 @@ Here are some ideas to get you started:
 
 📧 Email: rorobitega.work@gmail.com
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/tegarorobi) | [GitHub](https://github.com/tegarorobi)
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/TegaRorobi) | [GitHub](https://github.com/TegaRorobi)
 
 ---
 
 ## About Me
 
-Dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
+I am a dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
 
 ## Experience
 
 ### AbosedeAina Charity Foundation, Lagos — Lead Software Engineer (Dec 2022 - Present)
 
-- 🚀 Led the backend team, ensuring timely delivery of projects.
-- 🕒 Thrived under tight deadlines with a calm and graceful demeanor.
-- 🛠️ Managed and maintained the foundation's site for seamless functioning.
+- 🚀 Led the team of developers, ensuring timely delivery of projects.
+- 🕒 Managed and maintained the foundation's site, ensuring seamless functioning.
 - 🤝 Collaborated with various departments to optimize site performance and enhance user experience.
-
-### Niyexdroid Technologies, Lagos — Intern (Dec 2023 - Present)
-
-- 🤝 Established strong working relationships with fellow interns.
-- 🎯 Demonstrated a strong work ethic and passion for software engineering.
-- 📚 Successfully conducted various research tasks.
-- 🛠️ Worked effectively with minimal supervision on various projects.
 
 ### HNG Internships, Lagos — Finalist Intern (Sep 2023 - Oct 2023)
 
+- 🤝 Established strong working relationships with fellow interns.
+- 🎯 Demonstrated a strong work ethic and passion for software engineering.
 - 🎯 Consistently met tight time frames for personal and group tasks.
-- 🚀 Achieved the status of finalist in the backend development category, ranking in the **top 1%** of candidates out of **22,000+** registered participants.
+- 📚 Successfully conducted various research tasks.
+- 🚀 Achieved the status of finalist in the backend development category, ranking in the top 1% of candidates out of 22,000+ registered participants.
+
+### **Projects**
+
+1. **AbosedeAina Charity Foundation's Website** (December 2022 - Present)
+   - Description: Architected the backend for the foundation's website, actualised it with quality code.
+   - Technologies Used: Django, PostgreSQL, others
+   - Hosting: Heroku, Railway, Pythonanywhere
+
+2. **Zuriportfolio** (September 2022 - Present)
+   - Description: Contributed to the admin portion.
+   - Technologies Used: Django, Django Rest Framework, Swagger, PostgreSQL, others
+   - Hosting: Render
 
 ## Education
 
@@ -61,10 +68,10 @@ Dedicated and results-oriented Software Engineer with a strong passion for backe
 
 ## Skills
 
-- 💻 Programming/Scripting Languages: Python, C, C++, Powershell
-- 🌐 Backend: Django, Django Rest Framework, CustomTkinter, Kivy
+- 💻 Programming Languages: Python
+- 🌐 Backend: Django, Django Rest Framework
 - 📦 Database: PostgreSQL, MySQL
-- 📜 Version Control: Git/GitHub (obviously 😏)
+- 📜 Version Control: Git/GitHub
 - 🧪 Test-Driven Development (TDD)
 - 🤝 Soft Skills: Strong interpersonal relations, determination, commitment, ability to work independently.
 
@@ -87,4 +94,3 @@ Available upon request.
 ---
 
 Feel free to reach out and connect. Let's build amazing software together! 🚀
-
