@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 📧 Email: rorobitega.work@gmail.com
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/TegaRorobi) | [GitHub](https://github.com/TegaRorobi)
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/TegaRorobi) | [GitHub](https://github.com/TegaRorobi)| [Twitter](https://twitter.com/Tega_Rorobi)
 
 ---
 
