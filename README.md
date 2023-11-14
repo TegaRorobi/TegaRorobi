@@ -27,7 +27,13 @@ Here are some ideas to get you started:
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/TegaRorobi) | [GitHub](https://github.com/TegaRorobi) | [Twitter](https://twitter.com/TegaRorobi)
 
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql,sqlite,selenium,html,c,cpp,fastapi,vscode,vim,heroku,vercel&perline=8"/>
+  </a>
+</p>
 
+---
 
 ## About Me
 
