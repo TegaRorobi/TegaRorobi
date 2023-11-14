@@ -83,7 +83,7 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 - 🧪 Test-Driven Development (TDD)
 - 🤝 Soft Skills: Leadership, strong interpersonal relations, determination, commitment, ability to work independently amongst others.
 
-## Awards / Acheievements
+## Awards / Achievements
 
 - 🏅 Best Graduating Student - Secondary School.
 - 🥇 Overall Best Student - Secondary School.
