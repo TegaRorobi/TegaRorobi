@@ -97,5 +97,4 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 Available upon request.
 
 ---
-
-Feel free to reach out and connect. Let's build amazing software together! 🚀
+<p align="center">Feel free to reach out and connect. Let's build amazing software together! 🚀</p>
