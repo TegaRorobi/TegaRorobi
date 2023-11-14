@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 I am a dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
 
-## Experience
+## Experiences
 
 ### AbosedeAina Charity Foundation, Lagos — Lead Software Engineer (Dec 2022 - Present)
 
@@ -56,7 +56,7 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 - 📚 Successfully conducted various research tasks.
 - 🚀 Achieved the status of finalist in the backend development category, ranking in the top 1% of candidates out of 22,000+ registered participants.
 
-### **Projects**
+## Projects
 
 1. **AbosedeAina Charity Foundation's Website** (December 2022 - Present)
    - Description: Architected the backend for the foundation's website, actualised it with quality code.
@@ -83,7 +83,7 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 - 🧪 Test-Driven Development (TDD)
 - 🤝 Soft Skills: Leadership, strong interpersonal relations, determination, commitment, ability to work independently amongst others.
 
-## Awards
+## Awards / Acheievements
 
 - 🏅 Best Graduating Student - Secondary School.
 - 🥇 Overall Best Student - Secondary School.
@@ -91,9 +91,6 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 - 🎓 President, Science Club - Secondary School.
 - 🏅 Best Graduating Pupil - Primary School.
 
-## Languages
-
-- 🌐 English (working proficiency)
 
 ## References
 
