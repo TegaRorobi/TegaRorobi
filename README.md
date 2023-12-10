@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql"/>
-    <br />
-    <img src="https://skillicons.dev/icons?i=sqlite,cpp,c,fastapi,selenium,html,regex"/>
+    <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql,sqlite,cpp,c,fastapi,selenium,html,regex"/>
     <br />
     <img src="https://skillicons.dev/icons?i=bootstrap,postman,vscode,replit,vim,stackoverflow,heroku,vercel"/>
   </a>
