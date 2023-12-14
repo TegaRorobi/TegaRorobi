@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ## About Me
 
 I am a dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
+<!--
 
 ## Experiences
 
@@ -95,6 +96,7 @@ I am a dedicated and results-oriented Software Engineer with a strong passion fo
 ## References
 
 Available upon request.
+-->
 
 ---
 <p align="center">Feel free to reach out and connect. Let's build amazing software together! 🚀</p>
