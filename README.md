@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 
 # Hi, I'm Tega Rorobi 👋
 
@@ -34,13 +35,29 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=bootstrap,postman,vscode,replit,vim,stackoverflow,heroku,vercel"/>
   </a>
 </p>
+-->
 
+<h1 align='center'>Hi, I'm Tega Rorobi 👋</h1>
+<p>🚀 <strong>Software Engineer | Backend Developer</strong> based in Lagos, Nigeria</p>
+<p>📞 (234) 704-4201-464</p>
+<p>📧 Email: rorobitega.work@gmail.com</p>
+<p>🔗 Connect with me: <a href="https://www.linkedin.com/in/TegaRorobi">LinkedIn</a> | <a href="https://github.com/TegaRorobi">GitHub</a> | <a href="https://twitter.com/TegaRorobi">Twitter</a></p>
 
-## About Me
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql,sqlite,cpp,c,fastapi,selenium,html,regex"/>
+    <br />
+    <img src="https://skillicons.dev/icons?i=bootstrap,postman,vscode,replit,vim,stackoverflow,heroku,vercel"/>
+  </a>
+</p>
+
+<h2 align='center'>About Me</h2>
 
 I am a dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
-<!--
 
+
+<!--
 ## Experiences
 
 ### AbosedeAina Charity Foundation, Lagos — Lead Software Engineer (Dec 2022 - Present)
