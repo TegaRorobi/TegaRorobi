@@ -38,10 +38,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>Hi, I'm Tega Rorobi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/></h1>
+<!-- <span style='width:50%'> -->
 <p>🚀 <strong>Software Engineer | Backend Developer</strong> based in Lagos, Nigeria</p>
 <p>📞 (234) 704-4201-464</p>
 <p>📧 Email: rorobitega.work@gmail.com</p>
 <p>🔗 Connect with me: <a href="https://www.linkedin.com/in/TegaRorobi">LinkedIn</a> | <a href="https://github.com/TegaRorobi">GitHub</a> | <a href="https://twitter.com/TegaRorobi">Twitter</a></p>
+<!-- </span> -->
+<!-- <span style='width:50%'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegarorobi&theme=dark&card_width=400"/>
+</span> -->
 
 ---
 <p align="center">
