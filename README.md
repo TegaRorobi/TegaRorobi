@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql,sqlite,cpp,c,fastapi,selenium,html,regex"/>
+    <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql,redis,rabbitmq,sqlite,cpp,c,fastapi,html"/>
     <br />
-    <img src="https://skillicons.dev/icons?i=bootstrap,postman,vscode,replit,vim,stackoverflow,heroku,vercel"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,selenium,regex,postman,vscode,replit,vim,stackoverflow,heroku,vercel"/>
   </a>
 </p>
 
