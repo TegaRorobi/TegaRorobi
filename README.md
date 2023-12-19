@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,git,github,postgresql,mysql,redis,rabbitmq,sqlite,cpp,c,fastapi,html"/>
     <br />
-    <img src="https://skillicons.dev/icons?i=bootstrap,selenium,regex,postman,vscode,replit,vim,stackoverflow,heroku,vercel"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,selenium,regex,postman,vscode,docker,replit,vim,stackoverflow,heroku,vercel"/>
   </a>
 </p>
 
