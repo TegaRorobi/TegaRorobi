@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <p>📞 (234) 704-4201-464</p>
 <p>📧 Email: rorobitega.work@gmail.com</p>
 <p>🔗 Connect with me: <a href="https://www.linkedin.com/in/TegaRorobi">LinkedIn</a> | <a href="https://github.com/TegaRorobi">GitHub</a> | <a href="https://twitter.com/TegaRorobi">Twitter</a></p>
+
 <!-- </span> -->
 <!-- <span style='width:50%'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegarorobi&theme=dark&card_width=400"/>
@@ -57,11 +58,18 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+
 <h2 align='center'>About Me</h2>
+<p>
+  I am a dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
+</p>
 
-I am a dedicated and results-oriented Software Engineer with a strong passion for backend development. I thrive on delivering efficient solutions and collaborating with cross-functional teams to ensure optimal site performance. My ability to work independently and contribute effectively to project success sets me apart.
 
-
+<h2 align='center'>My GitHub Stats</h2>
+<p align="center">
+  <img src="https://myreadme.vercel.app/api/embed/tegarorobi?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
+</p>
 <!--
 ## Experiences
 
